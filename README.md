@@ -1,4 +1,2 @@
-starthere
+[Start Here!](https://github.com/qcmerge/administration)
 =========
-
-This is where you start!
